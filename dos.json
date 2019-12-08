@@ -6,6 +6,7 @@
     "executables": true,
     "exe-suffix": ".com",
     "linker-flavor": "gcc",
+    "linker": "i386-elf-gcc",
     "linker-is-gnu": true,
     "llvm-target": "i386-unknown-none-code16",
     "max-atomic-width": 64,

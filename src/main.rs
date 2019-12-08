@@ -11,5 +11,5 @@ mod opn;
 
 #[no_mangle]
 pub extern "C" fn start() {
-    print!(b"Hello, world!");
+    print!(b"Hello, world!\r\n");
 }
